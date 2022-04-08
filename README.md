@@ -1,3 +1,7 @@
+<p align="center">
+Now officially hosted on Sourcehut at https://git.sr.ht/~unevenprankster/ratatan. Down with the Github.
+</p>
+
 ![ratatanx](assets/RATATANX.png)
 <p align="center">
   'Ratatan' and 'Ratatan X' PICO-8 games
